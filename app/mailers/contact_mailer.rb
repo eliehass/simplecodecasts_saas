@@ -1,4 +1,4 @@
-class COntactMailer < ActionMailer::Base
+class ContactMailer < ActionMailer::Base
     
     default to: 'eliehass@mac.com'
 
